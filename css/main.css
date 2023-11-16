@@ -1,0 +1,35 @@
+body {
+    background-color: beige;
+}
+
+h3 {
+    color: darkred;
+    text-align: center;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+ol {
+    color: darkred;
+    text-align: center;
+    font-weight: 900;
+}
+
+.text {
+    font-style: italic;
+}
+
+.chapter {
+    font-style: italic;
+}
+
+.answer {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
